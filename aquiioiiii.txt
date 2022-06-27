@@ -1,0 +1,4 @@
+localhost/peojetoPHP/verificar.php
+Servidor     pasta
+
+127.0.0.1/peojetoPHP/index.php
